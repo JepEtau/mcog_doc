@@ -1,4 +1,4 @@
-Documenation
+Documentation
 
 
 - [Installation](installation.md)
